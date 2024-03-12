@@ -1,0 +1,34 @@
+*{
+    font-family: "Bebas Neue";
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 5%;
+}h1{
+    text-align: center;
+    font-weight: 400;
+}
+.row{
+    border: 1px solid red;
+}
+.btn-success{
+    height: 5%;
+    width: 120px;
+}
+.bi-plus-circle-fill{
+    margin-left: 1%;
+    margin-right: 5%; 
+}
+.first-row{
+    background-color: black;
+    color: red;
+}
+.row-dados{
+    padding: 16px 0;
+}
+a{
+    color: white !important;
+}
+
+
